@@ -5,9 +5,9 @@
 ## Description about explorer.cpp/.exe
 
 - Explorer is a completely random name to mascarade, this is used to launch for the reverse shell which would be on a Windows based PC
-- The way to complete the reverse shell, the attacker PC (for me it's an Ubuntu box) will launch `netcat -lvnp 8080` or whatever port you designate\n
+- The way to complete the reverse shell, the attacker PC (for me it's an Ubuntu box) will launch `netcat -lvnp 8080` or whatever port you designate
 
-**Wine is supported by this script in the case of pure Linux users**
+**Wine is supported by this executable in the case of pure Linux users**
 
 ### To compile this program in the case that you would want to make changes is per OS:
 
